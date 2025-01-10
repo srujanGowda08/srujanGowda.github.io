@@ -3,9 +3,7 @@
 I'm **Srujan G S**, an aspiring Software Engineer with a passion for building dynamic web applications. I specialize in the **MERN** stack and enjoy tackling DSA challenges. Let's make something amazing together!
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srujanGowda08&theme=dark)](https://git.io/streak-stats)
-
-
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=srujanGowda08&theme=dark" alt="GitHub Streak" /></a>
 
 
 
